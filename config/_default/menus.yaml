@@ -1,0 +1,13 @@
+main:
+  - name: 关于
+    url: '#about'
+    weight: 1
+  - name: 发布
+    url: /posts/
+    weight: 2
+  - name: 文档
+    url: /docs/
+    weight: 3
+  - name: 状态
+    url: /status/
+    weight: 4
