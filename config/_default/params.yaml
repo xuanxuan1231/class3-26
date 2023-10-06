@@ -67,7 +67,7 @@ comment:
   #   # For example, `appId` should be written as `app-Id` or other acceptable formats.
   #   app-Id: -U-Y-W-Xdl6wpqpfr-J-Zas-Yoh0pm-N gz-Gzo-Hsz
   #   app-Key: 6o-Mj-A-X4-H3-N-M-T-V6i2u-Lcub-L-Cf
-enableGiscus: true # enable giscus for comment
+  enableGiscus: true # enable giscus for comment
   giscus:
     data_repo: xuanxuan1231/class3-26
     data_repo_id: R_kgDOKZdYaw
