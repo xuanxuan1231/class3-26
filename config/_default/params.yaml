@@ -67,20 +67,20 @@ comment:
   #   # For example, `appId` should be written as `app-Id` or other acceptable formats.
   #   app-Id: -U-Y-W-Xdl6wpqpfr-J-Zas-Yoh0pm-N gz-Gzo-Hsz
   #   app-Key: 6o-Mj-A-X4-H3-N-M-T-V6i2u-Lcub-L-Cf
-# enableGiscus: true # enable giscus for comment
-#   giscus:
-  #   data_repo: xuanxuan1231/class3-26
-  #   data_repo_id: R_kgDOKZdYaw
-  #   data_category: Announcements
-  #   data_category_id: DIC_kwDOKZdYa84CZ5CZ
-  #   data_mapping: title
-  #   data_strict: 0
-  #   data_reactions_enabled: 1
-  #   data_emit_metadata: 0
-  #   data_input_position: bottom
-  #   data_theme: preferred_color_scheme
-  #   data_lang: zh-CN
-  #   crossorigin: anonymous
+enableGiscus: true # enable giscus for comment
+  giscus:
+    data_repo: xuanxuan1231/class3-26
+    data_repo_id: R_kgDOKZdYaw
+    data_category: Announcements
+    data_category_id: DIC_kwDOKZdYa84CZ5CZ
+    data_mapping: title
+    data_strict: 0
+    data_reactions_enabled: 1
+    data_emit_metadata: 0
+    data_input_position: bottom
+    data_theme: preferred_color_scheme
+    data_lang: zh-CN
+    crossorigin: anonymous
   # go to https://giscus.app to get configuraion
 
 diagram:
@@ -95,7 +95,7 @@ diagram:
   #   flowchart:
   #     diagram-padding:
 
-enableGitalk: true #
+enableGitalk: false #
 gitalk: 
   clientID: 6db8e416ed9ab725c521 # 您刚才创建Github Application 的 Client ID
   clientSecret : 50e05e01fb2c599f37817808891e960812b5c985 # 您刚才创建Github Application 的 Client Secret
