@@ -11,3 +11,6 @@ main:
   - name: 状态
     url: /status/
     weight: 4
+  - name: 学校官网
+    url: /school/
+    weight: 5
