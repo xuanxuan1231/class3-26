@@ -1,3 +1,15 @@
+---
+title: 七年级三班班规（编写中）
+description: 北大附中新馨学校初一三班专用
+toc: true
+authors: example-author
+tags:
+categories:
+series:
+date: '2023-10-12'
+lastmod: '2023-10-14'
+draft: false
+---
 # 七年级三班班级规章制度（试行）
 [toc]
 第一版于2023年10月12日 吴政达 制定
