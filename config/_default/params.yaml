@@ -78,9 +78,10 @@ comment:
     data_reactions_enabled: 1
     data_emit_metadata: 0
     data_input_position: bottom
-    data_theme: preferred_color_scheme
+    data_theme: eureka
     data_lang: zh-CN
     crossorigin: anonymous
+    # theme: eureka
   # go to https://giscus.app to get configuraion
 
 diagram:
