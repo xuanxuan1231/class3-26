@@ -18,7 +18,6 @@ draft: false
 [课程表.xlsx](http://mrw.so/6nYUIT)
 
 # 校园常用指引
-![常用指引](zhiyin.svg)
+![常用指引](zhiyin.svg)  
 
-# 其他信息
-获取更多信息，请关注[师生群](shisheng.svg)和[希悦](https://bdfzxsq.seiue.com)
+获取更多信息，请关注[师生群](shisheng.svg)和[希悦](https://bdfzxsq.seiue.com)  
