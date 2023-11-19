@@ -9,7 +9,7 @@ series:
 date: '2023-10-14'
 lastmod: '2023-10-14'
 draft: false
-
+enableComment: false
 ---
 
 北大附中新馨学校学生手册 目录  
