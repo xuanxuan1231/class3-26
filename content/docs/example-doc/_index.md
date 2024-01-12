@@ -20,4 +20,7 @@ draft: false
 # 校园常用指引
 ![常用指引](zhiyin.svg)  
 
+###### 大屏使用手册（纯属闲的）
+<iframe src='pdfjs/web/viewer.html?file=http://localhost:1313/docs/example-doc/大屏使用手册2.0.pdf' style='width:100%;height:100%'></iframe>
+
 获取更多信息，请关注[师生群](shisheng.svg)和[希悦](https://bdfzxsq.seiue.com)  
