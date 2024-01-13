@@ -1,6 +1,0 @@
-[submodule "themes/hugo-embed-pdf-shortcode"]
-	path = themes/hugo-embed-pdf-shortcode
-	url = git@github.com:anvithks/hugo-embed-pdf-shortcode.git
-[submodule "themes/hugo-notice"]
-	path = themes/hugo-notice
-	url = git@github.com:martignoni/hugo-notice.git
