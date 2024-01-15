@@ -9,7 +9,7 @@ theme: ["eureka","hugo-notice"]
 
 paginate: 3
 copyright: >
-  &copy; 2023 <a href="https://github.com/xuanxuan1231">xuanxuan1231</a> and <a
+  &copy; 2023-present <a href="https://github.com/xuanxuan1231">xuanxuan1231</a> and <a
   href="https://bdfzxxxx.bjhdedu.cn/">PKUS XINXIN SCHOOL</a>
 enableEmoji: true
 enableGitInfo: false
