@@ -13,7 +13,7 @@ series:
 date: '2020-05-26'
 lastmod: '2020-05-26'
 featuredImage: images/hero-right.jpg
-draft: false
+draft: true
 ---
 
 Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.
