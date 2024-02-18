@@ -1,5 +1,5 @@
 baseURL: /
-title: 初一三班官方网站
+title: 初一三班 · Hugo 主站
 
 # Uncomment when not installing with Hugo Modules
 theme: ["eureka","hugo-notice"]
