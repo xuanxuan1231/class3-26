@@ -15,10 +15,10 @@ colorScheme:
 style:
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-siteType: Person
-icon: images/icon.png
-publisherName: WANG Chucheng
-publisherLogo:
+siteType: Organization
+icon: images/bdfz-new.png
+publisherName: xuanxuan1231
+publisherLogo: https://avatars.githubusercontent.com/u/106209242?v=4
 
 highlight:
   handler: highlightjs

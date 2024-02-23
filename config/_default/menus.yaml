@@ -12,5 +12,7 @@ main:
     url: /school/
     weight: 4
   - name: 状态
-    url: https://status.xuanxuan1231.tk
+    url: https://status.2026届三班.top/status
     weight: 5
+  - name: 用户文档
+    url: https://xuanxuan1231.github.io
