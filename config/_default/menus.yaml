@@ -8,11 +8,8 @@ main:
   - name: 文档
     url: /docs/
     weight: 3
-  - name: 学校官网
-    url: /school/
-    weight: 4
   - name: 状态
     url: https://status.2026届三班.top/status
-    weight: 5
+    weight: 4
   - name: 用户文档
     url: https://xuanxuan1231.github.io
