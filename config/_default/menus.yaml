@@ -1,15 +1,14 @@
 main:
+  - name: 本站支持IPv6
+    weight: 1
   - name: 关于
     url: '#about'
-    weight: 1
+    weight: 2
   - name: 发布
     url: /posts/
-    weight: 2
+    weight: 3
   - name: 文档
     url: /docs/
-    weight: 3
-  - name: 状态
-    url: https://status.2026届三班.top/status
     weight: 4
   - name: 用户文档
     url: https://xuanxuan1231.github.io
