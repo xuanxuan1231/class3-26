@@ -10,5 +10,3 @@ main:
   - name: 文档
     url: /docs/
     weight: 4
-  - name: 用户文档
-    url: https://xuanxuan1231.github.io
