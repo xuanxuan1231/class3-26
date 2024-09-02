@@ -1,5 +1,5 @@
 ---
-title: 初一三班
+title: 初二三班
 draft: false
 avatar: images/bdfz-new.png
 bio: 北大附中新馨学校26届3班

@@ -1,5 +1,5 @@
 ---
-title: 初一三班
+title: 初二三班
 draft: false
 role: Example Role
 avatar: images/bdfz.png
@@ -21,7 +21,7 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position:
+    position: 
     # Options: sm, md, lg and xl. Default is md.
     scale:
   
